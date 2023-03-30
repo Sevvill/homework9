@@ -1,0 +1,22 @@
+@media(max-width:480px){
+    .container{
+        width: 100%;
+
+    }
+    header{
+       width: 100%;
+    }
+    .background_imge{
+        width:10000% ;
+    }
+    ul li{
+        display: none;
+    }
+    .fa_list_ul{
+     display: flex;
+    font-size: 60px;
+    color: white;
+    margin-top: 32px;
+    }
+   
+}
